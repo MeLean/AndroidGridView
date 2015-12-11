@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GridView Project</string>
+    <string name="action_settings">Settings</string>
+    <!-- start of strings for images text -->
+    <string name="image_blue_text">I am Blue</string>
+    <string name="image_stupid_text">Stupid or just stupid that is the question</string>
+    <string name="image_sunset_text">Sunshine where did you go</string>
+    <string name="image_winter_text">I am cold</string>
+    <!-- end of strings for images text -->
+</resources>
